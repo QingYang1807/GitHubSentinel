@@ -136,7 +136,7 @@ curl http://localhost:11434/api/chat -d '{
 }'
 ```
 
-有关所有端点（Endpoint）的详细信息，请参阅 [API 文档](./docs/api.md)。
+有关所有端点（Endpoint）的详细信息，请参阅 [API 文档](https://github.com/ollama/ollama/blob/main/docs/api.md)。
 
 ---
 
